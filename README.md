@@ -1,7 +1,5 @@
 # ClockwiseSystems
 
-**Transformando o caos logístico em harmonia acadêmica.**
-
 O **Clockwise** é uma solução inteligente de gestão de horários escolares projetada para resolver o "quebra-cabeça" que coordenadores e professores enfrentam todos os semestres. Mais do que um simples gerador de tabelas, o Clockwise foca na **experiência humana** e na **eficiência operacional**.
 
 ---
