@@ -62,20 +62,12 @@ Abaixo, os pilares que sustentam o desenvolvimento do nosso sistema, validados p
 ## Impacto Esperado
 
 
-
-| Processo Atual | Com ClockwiseSystems |
-
-| :--- | :--- |
-
+| Processo Atual | Com Clockwise |
+| ------------- |:-------------:|
 | Atualização de grade em 40min | Atualização otimizada |
-
 | Janelas de aula mal geridas | Otimização máxima de tempo vago |
-
-| Comunicação via WhatsApp/Papel | Dashboard centralizado e notificações |
-
+| Comunicação via WhatsApp | Dashboard centralizado e notificações |
 | Preferências ignoradas | Algoritmo baseado em restrições e desejos |
-
-
 
 ---
 
