@@ -1,6 +1,3 @@
-Gemini
-Refinando Prioridades do Sistema Clockwise
-Conversa com o Gemini
 # ClockwiseSystems
 
 
